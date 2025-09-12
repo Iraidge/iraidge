@@ -11,11 +11,20 @@ I’m always open to suggestions and collaborations — feel free to reach out v
 ---
 
 ## 📖 Interesting Facts
-- 🔭 Currently studying at the **University of Leeds Beckett**.  
+- 🎓 Currently studying **Game Design** at Leeds Beckett University
 - 🎯 Specializing in **Game Development** and gameplay programming:  
-  **Unreal Engine / C++ / Unity / C#**  
-- 💡 Interests: Video games, computer science, music, and books.  
+  [ **Unreal Engine / C++ / Unity / C#** ]
+- 📘 Always learning through experience and pet projects
+- 🚀 Dreaming of contributing to AAA titles as a gameplay programmer
 
+---
+
+## 💡 Interests
+- 🎮 Playing and creating video games  
+- 💻 Exploring computer science and new technologies  
+- 🎶 Music — from lo-fi beats to epic soundtracks  
+- 📚 Books — sci-fi & game design theory are my favorites
+  
 ---
 
 ## 📂 Projects
@@ -25,6 +34,7 @@ I’m always open to suggestions and collaborations — feel free to reach out v
 
 ## 📫 Contact
 - ✉️ Email: ivanderb26@gmail.com
+
 ---
 
 ⭐️ Thanks for visiting my profile!
