@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hello, I'm Ivan 😀
+### 🎮 Gameplay Programmer
 
-<!--
-**Iraidge/iraidge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me
+Welcome to my profile card!  
+Here you can find some facts about me and my professional career in *game development*.  
+I’m always open to suggestions and collaborations — feel free to reach out via my contacts below.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 Interesting Facts
+- 🔭 Currently studying at the **University of Leeds Beckett**.  
+- 🎯 Specializing in **Game Development** and gameplay programming:  
+  **Unreal Engine / C++ / Unity / C#**  
+- 💡 Interests: Video games, computer science, music, and books.  
+
+---
+
+## 📂 Projects
+- 🎨 [Portfolio (WIP)](https://github.com/Iraidge/Portfolio)  
+
+---
+
+## 📫 Contact
+- ✉️ Email: ivanderb26@gmail.com
+---
+
+⭐️ Thanks for visiting my profile!
