@@ -22,8 +22,8 @@ I’m always open to suggestions and collaborations — feel free to reach out v
 ## 💡 Interests
 - 🎮 Playing and creating video games  
 - 💻 Exploring computer science and new technologies  
-- 🎶 Music — from lo-fi beats to epic soundtracks  
-- 📚 Books — sci-fi & game design theory are my favorites
+- 🎶 Music — From lo-fi to Rock, and even sometimes classical!
+- 📚 Books — My usual preferences are sci-fi, technology and games related books.
   
 ---
 
