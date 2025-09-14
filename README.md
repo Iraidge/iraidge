@@ -23,7 +23,7 @@ I’m always open to suggestions and collaborations — feel free to reach out v
 - 🎮 Playing and creating video games  
 - 💻 Exploring computer science and new technologies  
 - 🎶 Music — From lo-fi to Rock, and even sometimes classical!
-- 📚 Books — My usual preferences are sci-fi, technology and games related books.
+- 📚 Books — My usual preferences are sci-fi, technology and game related books.
   
 ---
 
