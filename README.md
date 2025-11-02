@@ -28,8 +28,8 @@ I’m always open to suggestions and collaborations — feel free to reach out v
 ---
 
 ## 📂 Projects
-- 🎨 [Portfolio (WIP)](https://github.com/Iraidge/Portfolio)  
-
+- [Portfolio (WIP)](https://github.com/Iraidge/Portfolio)
+- [Signal-Lost](https://github.com/Iraidge/Signal-Lost)
 ---
 
 ## 📫 Contact
