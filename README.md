@@ -26,10 +26,10 @@ Main tools and languages I work with:
 ---
 
 ## 💡 Interests
-- 🎮 Playing and creating video games  
-- 💻 Exploring computer science and new technologies  
-- 🎶 Music — From lo-fi to Rock, and even sometimes classical!
-- 📚 Books — My usual preferences are sci-fi, technology and game related books.
+- Playing and creating video games  
+- Exploring computer science and new technologies  
+- Music — From lo-fi to Rock, and even sometimes classical!
+- Books — My usual preferences are sci-fi, technology and game related books.
   
 ---
 
