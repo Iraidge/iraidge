@@ -41,7 +41,6 @@ Main tools and languages I work with:
 
 ## 📂 Projects
 - [Portfolio (WIP)](https://github.com/Iraidge/Portfolio) Personal portfolio website built with HTML, CSS and JS.
-- [Signal-Lost](https://github.com/Iraidge/Signal-Lost) Small 3D game for Game Jam focused on **atmosphere, sound, and puzzle-solving**.
 
 ---
 
