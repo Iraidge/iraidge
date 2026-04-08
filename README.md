@@ -10,8 +10,8 @@ I’m always open to suggestions and collaborations — feel free to reach out v
 
 ### 🔧 Currently working on
 - Developing a small gameplay prototype in Unreal Engine
-- Improving my personal portfolio website
-- Participating in **Game Off 2025** Game Jam
+- Practicing C++ & C
+- Creating new projects for portofolio
 
 I'm a passionate Gameplay Programmer focused on creating fun and responsive player experiences.  
 Main tools and languages I work with:
