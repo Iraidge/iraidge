@@ -20,6 +20,7 @@ Main tools and languages I work with:
 ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp)
+![C](https://img.shields.io/badge/language-C-lightgrey)
 
 ---
 
