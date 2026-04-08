@@ -20,8 +20,7 @@ Main tools and languages I work with:
 ![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 
 ---
 
@@ -41,8 +40,8 @@ Main tools and languages I work with:
 
 ---
 
-## 📂 Projects
-- [Portfolio (WIP)](https://github.com/Iraidge/Portfolio) Personal portfolio website built with HTML, CSS and JS.
+## 📂 Projects Library
+- [Portfolio](https://github.com/Iraidge/Portfolio) Personal portfolio website built with HTML, CSS and JS.
 
 ---
 
