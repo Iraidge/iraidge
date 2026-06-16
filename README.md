@@ -26,10 +26,10 @@ I’m a passionate Gameplay Programmer focused on creating fun, responsive, and 
 ---
 
 ### 📂 Projects Library
-* 🌐 **[Portfolio](#)** — Personal portfolio website built with HTML, CSS, and JS.
+* 🌐 **[Portfolio & Blog](https://iraidge.github.io/Portfolio/)** — Personal portfolio website built with HTML, CSS, and JS.
 
 ### 📫 Contact
-* ✉️ **Email:** [твой email]
+* ✉️ **Email:** ivanderb26@gmail.com
 
 ---
 *Thanks for visiting my profile! ⭐*
