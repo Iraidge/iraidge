@@ -1,53 +1,35 @@
-## 👋 Hello, I'm Ivan 😀
+# 👋 Hello, I'm Ivan
+
 ### 🎮 Gameplay Programmer
+I’m a passionate Gameplay Programmer focused on creating fun, responsive, and mechanics-driven player experiences. Currently studying Game Design at Leeds Beckett University. 
+
+*Always open to suggestions, feedback, and pet-project collaborations!*
 
 ---
-
-## 💻 About Me
-Welcome to my profile card!  
-Here you can find some facts about me and my professional career in *game development*.  
-I’m always open to suggestions and collaborations — feel free to reach out via my contacts below.
 
 ### 🔧 Currently working on
-- Developing a small gameplay prototype in Unreal Engine
-- Practicing C++ & C
-- Creating new projects for portofolio
+* Developing a gameplay prototype in Unreal Engine
+* Deepening my knowledge in C++ & C
+* Creating new projects for my **portfolio**
 
-I'm a passionate Gameplay Programmer focused on creating fun and responsive player experiences.  
-Main tools and languages I work with:
-
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-000?logo=unreal-engine)
-![Unity](https://img.shields.io/badge/-Unity-100000?logo=unity)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+#### 🛠️ Main tools and languages:
+![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-## 📖 Interesting Facts
-- 🎓 Currently studying **Game Design** at Leeds Beckett University
-- ✏️ I like to draw and I'm still a newbie to this hobby — sketching and hoping one day to create something creative, maybe even a comic!  
-- 📘 Always learning through experience and pet projects
-- 🚀 Dreaming of contributing to AAA titles as a gameplay programmer
+### 📖 About Me & Interests
+* 🎓 **Education:** Studying Game Design at Leeds Beckett University.
+* 🚀 **Career Goal:** Dreaming of contributing to AAA titles as a gameplay programmer.
+* ✏️ **Hobbies:** Learning 2D sketching and visual storytelling (aiming for a comic book setup).
+* 🎧 **Beyond games:** Music (from lo-fi to rock, and sometimes classical) and books (sci-fi, tech, and game-dev post-mortems).
 
 ---
 
-## 💡 Interests
-- Playing and creating video games  
-- Exploring computer science and new technologies.
+### 📂 Projects Library
+* 🌐 **[Portfolio](#)** — Personal portfolio website built with HTML, CSS, and JS.
 
-🎧 **Beyond games:** Music (from lo-fi to rock, and even sometimes classical!) and books (sci-fi, technology, and game-related).
-
----
-
-## 📂 Projects Library
-- [Portfolio](https://github.com/Iraidge/Portfolio) Personal portfolio website built with HTML, CSS and JS.
+### 📫 Contact
+* ✉️ **Email:** [твой email]
 
 ---
-
-## 📫 Contact
-- ✉️ Email: ivanderb26@gmail.com
-
----
-
-⭐️ Thanks for visiting my profile!
+*Thanks for visiting my profile! ⭐*
