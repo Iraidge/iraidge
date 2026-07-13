@@ -30,6 +30,3 @@ I’m a passionate Gameplay Programmer focused on creating fun, responsive, and 
 
 ### 📫 Contact
 * ✉️ **Email:** ivanderb26@gmail.com
-
----
-*Thanks for visiting my profile! ⭐*
