@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ivan
+ddd# 👋 Hello, I'm Ivan
 
 ### 🎮 Gameplay Programmer
 I’m a passionate Gameplay Programmer focused on creating fun, responsive, and mechanics-driven player experiences. Currently studying Game Design at Leeds Beckett University. 
@@ -8,7 +8,6 @@ I’m a passionate Gameplay Programmer focused on creating fun, responsive, and 
 ---
 
 ### 🔧 Currently working on
-* Developing a gameplay prototype in Unreal Engine
 * Deepening my knowledge in C++ & C
 * Creating new projects for my **portfolio**
 
