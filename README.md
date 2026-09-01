@@ -25,7 +25,7 @@ I’m a passionate Gameplay Programmer focused on creating fun, responsive, and 
 ---
 
 ### 📂 Projects Library
-* **[Portfolio & Blog](https://iraidge.github.io/Portfolio/)** — Personal portfolio website built with HTML, CSS, and JS.
+* **[Portfolio & Blog (WIP!)](https://iraidge.github.io/Portfolio/)** — Personal portfolio website built with HTML, CSS, and JS.
 * **[CryoCannonComponent](https://github.com/Iraidge/UE5-CryoCannonComponent)** — A modular CryoCannon weapon component prototype built with C++ for Unreal Engine 5.7
 
 ### 📫 Contact
