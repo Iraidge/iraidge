@@ -9,6 +9,8 @@ I’m a passionate Gameplay Programmer focused on creating fun, responsive, and 
 
 ### 🔧 Currently working on
 * Deepening my knowledge in C++ & C
+* Learning more about Graphics Programming
+* Diving into APIs such as OpenGL and Vulkan
 * Creating new projects for my **portfolio**
 
 #### 🛠️ Tech Stack and languages:
