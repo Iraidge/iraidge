@@ -20,8 +20,8 @@ I’m a passionate Gameplay Programmer focused on creating fun, responsive, and 
 
 ### 📖 About Me & Interests
 * 🎓 **Education:** Studying Game Design at Leeds Beckett University.
-* 🚀 **Career Goal:** Dreaming of contributing to AAA titles as a gameplay programmer.
-* ✏️ **Hobbies:** Learning 2D sketching and visual storytelling (aiming for a comic book setup).
+* 🚀 **Career Goal:** Dreaming of contributing to AAA titles as a gameplay programmer, and becoming graphics programmer later on
+* ✏️ **Hobbies:** Learning 2D sketching, and love low-level programming
 * 🎧 **Beyond games:** Music (from lo-fi to rock, and sometimes classical) and books (sci-fi, tech, and game-dev post-mortems).
 
 ---
