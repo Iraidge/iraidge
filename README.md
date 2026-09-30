@@ -27,7 +27,7 @@ I’m a passionate Gameplay Programmer focused on creating fun, responsive, and 
 ---
 
 ### 📂 Projects Library
-* **[CryoCannonComponent](https://github.com/Iraidge/UE5-CryoCannonComponent)** - A modular CryoCannon weapon component prototype built with C++ for Unreal Engine 5.7
+* **[CryoCannonComponent](https://github.com/Iraidge/UE5-CryoCannonComponent)** - A modular Cryo Cannon weapon component prototype built with C++ for Unreal Engine 5.7
 * **[Inventory System with Raylib](https://github.com/Iraidge/Raylib-Inventory-System)** - A 2D inventory system made with C++ and Raylib, featuring Drag & Drop, item swapping, selling mechanics, and lazy texture loading for 1244 unique items.
 
 ### 📫 Contact
